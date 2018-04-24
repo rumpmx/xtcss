@@ -18,3 +18,10 @@ Pueden ser activados o desactivados a voluntad con tan solo comentar las partes 
 - Colores de texto y fondo
 
 > Cualquier contribución es bienvenida.
+
+Link: 
+
+``
+<link href="https://rawgit.com/rumpmx/xtcss/master/xtcss.css" rel="stylesheet">
+``
+
