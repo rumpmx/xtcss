@@ -22,6 +22,9 @@ Pueden ser activados o desactivados a voluntad con tan solo comentar las partes 
 Link: 
 
 ``
+
 <link href="https://rawgit.com/rumpmx/xtcss/master/xtcss.css" rel="stylesheet">
+<link href="https://rawgit.com/rumpmx/xtcss/master/xtcss.min.css" rel="stylesheet">
+
 ``
 
